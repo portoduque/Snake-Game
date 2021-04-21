@@ -1,4 +1,4 @@
-# 
+![logo](https://user-images.githubusercontent.com/37813839/115547457-aa324e00-a27c-11eb-978f-903e09d84c74.png)
 
 ## About
 This is a fun implementation of the classic snake game using the Turtle Module in Python.
