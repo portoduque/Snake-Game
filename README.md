@@ -8,11 +8,13 @@ This is a fun implementation of the classic snake game using the Turtle Module i
 * [Pyhton](https://www.python.org/downloads/)
 
 ## Usage example
-# 
+![3](https://user-images.githubusercontent.com/37813839/115547572-cb933a00-a27c-11eb-842b-5a9acdc64d97.gif)
+
 
 ### Every restart generates a new random color:
+![2](https://user-images.githubusercontent.com/37813839/115547597-d0f08480-a27c-11eb-922c-139ba80bc329.gif)
 
-# 
+ 
 ## Contact
 Gabriel Porto - [Linkedin](https://www.linkedin.com/in/portoduque/)
 
