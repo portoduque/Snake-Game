@@ -14,6 +14,10 @@ This is a fun implementation of the classic snake game using the Turtle Module i
 ### Every restart generates a new random color:
 ![2](https://user-images.githubusercontent.com/37813839/115547597-d0f08480-a27c-11eb-922c-139ba80bc329.gif)
 
+## Dependencies:
+
+1. Python v3.x is required.
+2. turtle module is also required.
  
 ## Contact
 Gabriel Porto - [Linkedin](https://www.linkedin.com/in/portoduque/)
